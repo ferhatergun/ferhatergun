@@ -1,6 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
-Hello I'm Ferhat <br> 🔭 I’m currently working on React.js and Javascript
+Hello I'm Ferhat <br> 🔭 I’m currently working on Front-End Develop <br>
+🌱 I’m currently learning HTML , CSS and JS
 
 
 ## 🌐 Socials:
